@@ -6,7 +6,7 @@ Découvrir l’environnement Linux et apprendre les commandes de base du termina
 ## 📚 Notions abordées
 - Présentation de Linux et du terminal
 - Navigation dans l’arborescence
-- Commandes de base :
+- Commandes de base : 
 - `pwd`
 - `ls`
 - `cd`
